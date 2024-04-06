@@ -7,3 +7,5 @@ install debian telescope manual:
 ```
 sudo apt-get install ripgrep
 ```
+## guide vim
+<a href="https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet/">Link</a>
